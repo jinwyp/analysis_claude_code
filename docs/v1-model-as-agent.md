@@ -136,4 +136,4 @@ Differences are in tools, display, safety. But the essence is always: **give the
 
 **Model as Agent. That's the whole secret.**
 
-[← Back to README](../README.md) | [Next: v2 →](./v2-structured-planning.md)
+[← v0](./v0-bash-is-all-you-need.md) | [Back to README](../README.md) | [v2 →](./v2-structured-planning.md)
